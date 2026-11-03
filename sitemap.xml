@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://sergeypob.github.io/formica-site/</loc>
+    <lastmod>2026-11-03</lastmod>
+    <image:image><image:loc>https://sergeypob.github.io/formica-site/assets/img/hero-port.webp</image:loc></image:image>
+    <image:image><image:loc>https://sergeypob.github.io/formica-site/assets/img/port-night.webp</image:loc></image:image>
+    <image:image><image:loc>https://sergeypob.github.io/formica-site/assets/img/fuchs-yard.webp</image:loc></image:image>
+    <image:image><image:loc>https://sergeypob.github.io/formica-site/assets/img/bagging-station.webp</image:loc></image:image>
+    <image:image><image:loc>https://sergeypob.github.io/formica-site/assets/img/scrap-1.webp</image:loc></image:image>
+    <image:image><image:loc>https://sergeypob.github.io/formica-site/assets/img/convoy-booms.webp</image:loc></image:image>
+  </url>
+</urlset>
